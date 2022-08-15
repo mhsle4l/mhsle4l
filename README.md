@@ -29,5 +29,3 @@
   ![Snake animation](https://github.com/mhsle4l/mhsle4l/blob/output/github-contribution-grid-snake.svg)
  
 </div>
- 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=mhsle4l&repo=mhsle4l&theme=jolly)](https://github.com/mhsle4l/mhsle4l)
